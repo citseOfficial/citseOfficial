@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @citseOfficial
 - 👀 I’m interested in new innovate proyects for automatizations with microservices
 - 🌱 I’m currently learning aplication moviles
-- 💞️ I’m looking to collaborate with 3 members
 - 📫 How to reach me citseservices@gmail.com  
 
 <!---
